@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm a Computer Science (B.A.) student at UC Berkeley (Data Science minor) focused on building backend + systems-style projects in Python.
+## I'm a CDSS student at Berkeley focused on building backend + systems-style projects in Python.
 
 ### What I’m working on
 - **RateLimMQ** — building from a minimal TCP server into a rate-limited message queue with correctness tests + benchmarking  
