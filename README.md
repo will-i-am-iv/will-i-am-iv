@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a CDSS student at Berkeley focused on building backend + systems-style projects in Python.
+I'm a CDSS student @ Berkeley focused on building backend + systems-style projects in Python.
 
 ---
 
