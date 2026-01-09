@@ -25,4 +25,3 @@ Linux/macOS · subprocess testing · benchmarking · latency analysis
 
 - LinkedIn: https://www.linkedin.com/in/will-i-am-iv/
 - Email: william.sutton.iv@berkeley.edu
-- GitHub: https://github.com/will-i-am-iv
